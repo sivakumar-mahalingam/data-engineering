@@ -57,5 +57,6 @@ Data engineers work with a variety of tools and technologies, including:
 
 **References**
 - https://www.dremio.com/blog/
-- https://www.databricks.com/blog
+- https://www.databricks.com/blog/
 - https://news.apache.org/
+- https://cloud.google.com/blog/
