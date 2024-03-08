@@ -42,7 +42,9 @@ An adept software stack can extract extensive insights and value from data, faci
 - **Ingestion:** This is the task of gathering data. Depending on the number of data sources, , this task can be focused or large-scale.
 - **Processing:** During this phase, ingested data is sorted to achieve a specific set of data to analyze.  For large data sets, this is commonly done using a distributed computing platform for scalability.
 - **Storing:** This takes the results of the processing and saves the data for fast and easy retrieval. The effectiveness of this phase relies on a sound database management system - which can be on premise or in the cloud
-- **Access:** Once in place, the data is available to users with access.  
+- **Consume:** Once in place, the data is available to users with access.  
+
+<img src="diagrams/tools-for-each-data-engineering-pipeline-stage.png" target="_blank" />
 
 **Data Engineering Tools and Skills**
 <br/>Data engineers use many different tools to work with data. They use a specialized skill set to create end-to-end data pipelines that move data from source systems to target destinations.
