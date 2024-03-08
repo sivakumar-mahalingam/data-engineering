@@ -60,6 +60,16 @@ Data engineers work with a variety of tools and technologies, including:
 **Data Engineering vs Data Science**
 <br/>Data engineering and Data Science are interdependent skills. Data engineers ensure data reliability and consistency, laying the groundwork for analysis. In turn, data scientists require dependable data for tasks like machine learning and data exploration, particularly when dealing with extensive datasets. Data scientists often collaborate with data engineers to source and preprocess data for their analytical endeavors.
 
+# The Data Engineering Lifecycle
+The data engineering lifecycle encompasses various stages aimed at transforming raw data into a valuable end product, primed for consumption by analysts, data scientists, ML engineers, and other stakeholders.
+We can divide the data engineering lifecycle into five stages:
+1. **Generation**: Creation or acquisition of raw data from various sources.
+2. **Ingestion**: Extracting data from its source and loading it into the storage system.
+3. **Transformation**: Manipulating and preparing data to make it suitable for analysis or other purposes.
+4. **Storage**: Storing raw data in repositories such as databases or data lakes.
+5. **Serving data**: Providing access to processed data for consumption by users or applications.
+<!--- Diagram-->
+
 **References**
 - https://www.dremio.com/blog/
 - https://www.databricks.com/blog/
