@@ -57,6 +57,9 @@ Data engineers work with a variety of tools and technologies, including:
 - **Cloud Data Storage:** Including Amazon S3, Azure Data Lake Storage (ADLS), Google Cloud Storage, etc.
 - **Query Engines:** Engines(like Spark, Flink, etc) run queries against data to return answers.
 
+**Data Engineering vs Data Science**
+<br/>Data engineering and Data Science are interdependent skills. Data engineers ensure data reliability and consistency, laying the groundwork for analysis. In turn, data scientists require dependable data for tasks like machine learning and data exploration, particularly when dealing with extensive datasets. Data scientists often collaborate with data engineers to source and preprocess data for their analytical endeavors.
+
 **References**
 - https://www.dremio.com/blog/
 - https://www.databricks.com/blog/
