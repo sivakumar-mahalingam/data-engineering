@@ -41,7 +41,7 @@ An adept software stack can extract extensive insights and value from data, faci
 
 - **Ingestion:** This is the task of gathering data. Depending on the number of data sources, , this task can be focused or large-scale.
 - **Processing:** During this phase, ingested data is sorted to achieve a specific set of data to analyze.  For large data sets, this is commonly done using a distributed computing platform for scalability.
-- **StoringL** This takes the results of the processing and saves the data for fast and easy retrieval. The effectiveness of this phase relies on a sound database management system - which can be on premise or in the cloud
+- **Storing:** This takes the results of the processing and saves the data for fast and easy retrieval. The effectiveness of this phase relies on a sound database management system - which can be on premise or in the cloud
 - **Access:** Once in place, the data is available to users with access.  
 
 **Data Engineering Tools and Skills**
