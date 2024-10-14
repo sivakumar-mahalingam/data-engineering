@@ -70,7 +70,7 @@ We can divide the data engineering lifecycle into five stages:
 5. **Serving data**: Providing access to processed data for consumption by users or applications.
 <!--- Diagram-->
 
-**References**
+# Blogs
 - https://www.dremio.com/blog/
 - https://www.databricks.com/blog/
 - https://news.apache.org/
