@@ -6,9 +6,16 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 
 ## Contents
 
+- [Data Versioning]
 - [Blogs](#Blogs)
 
+## Data Versioning
+
+- [lakeFS](https://github.com/treeverse/lakeFS) - A data version control for data stored in the data lake
+- [Project Nessie](https://github.com/projectnessie/nessie)  - A transactional catalog for Data Lakes
+
 ## Blogs
+
 - https://www.dremio.com/blog/
 - https://www.databricks.com/blog/
 - https://news.apache.org/
