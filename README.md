@@ -1,8 +1,14 @@
 # The Data Engineer (TDE) Handbook
 
-This repository contains resources required for Data Engineers
+Welcome to the Data Engineering Resources repository!
 
-# Blogs
+This repository contains valuable materials, tools, guides, and blogs curated for Data Engineers of all experience levels. Whether you're just starting out or looking to deepen your knowledge, these resources will help you stay up-to-date with the latest trends, tools, and best practices in data engineering.
+
+## Contents
+
+- [Blogs](#Blogs)
+
+## Blogs
 - https://www.dremio.com/blog/
 - https://www.databricks.com/blog/
 - https://news.apache.org/
