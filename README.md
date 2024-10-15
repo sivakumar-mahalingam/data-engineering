@@ -16,7 +16,15 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 
 ## Blogs
 
-- https://www.dremio.com/blog/
-- https://www.databricks.com/blog/
-- https://news.apache.org/
-- https://cloud.google.com/blog/
+- [Dremio](https://www.dremio.com/blog/)
+- [Databricks](https://www.databricks.com/blog/)
+- [Apache](https://news.apache.org/)
+- [Google Cloud](https://cloud.google.com/blog/)
+- [Facebook Engineering](https://engineering.fb.com/)
+- [Netflix](https://netflixtechblog.com/)
+- [Uber](https://www.uber.com/en-BH/blog/engineering/)
+- [Cloudflare](https://blog.cloudflare.com/)
+- [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
+- [Stripe](https://stripe.com/blog/engineering)
+- [Discord](https://discord.com/category/engineering)
+- [Slack](https://slack.engineering/)
