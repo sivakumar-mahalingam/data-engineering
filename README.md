@@ -31,3 +31,4 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [Stripe](https://stripe.com/blog/engineering)
 - [Discord](https://discord.com/category/engineering)
 - [Slack](https://slack.engineering/)
+- [Red Hat](https://www.redhat.com/en/blog)
