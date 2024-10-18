@@ -14,6 +14,9 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [lakeFS](https://github.com/treeverse/lakeFS) - A data version control for data stored in the data lake
 - [Project Nessie](https://github.com/projectnessie/nessie)  - A transactional catalog for Data Lakes
 
+## Data Catalog
+
+- [Apache Atlas](https://atlas.apache.org/)
 ## Blogs
 
 - [Dremio](https://www.dremio.com/blog/)
