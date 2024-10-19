@@ -7,6 +7,7 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 ## Contents
 
 - [Data Versioning](#Data-Versioning)
+- [Data Catalog](#Data-Catalog)
 - [Blogs](#Blogs)
 
 ## Data Versioning
@@ -17,18 +18,44 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 ## Data Catalog
 
 - [Apache Atlas](https://atlas.apache.org/)
+  
 ## Blogs
 
-- [Dremio](https://www.dremio.com/blog/)
-- [Databricks](https://www.databricks.com/blog/)
+### A
 - [Apache](https://news.apache.org/)
-- [Google Cloud](https://cloud.google.com/blog/)
-- [Facebook Engineering](https://engineering.fb.com/)
-- [Netflix](https://netflixtechblog.com/)
-- [Uber](https://www.uber.com/en-BH/blog/engineering/)
-- [Cloudflare](https://blog.cloudflare.com/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
-- [Stripe](https://stripe.com/blog/engineering)
+
+### C
+
+- [Cloudflare](https://blog.cloudflare.com/)
+
+### D
+
+- [Databricks](https://www.databricks.com/blog/)
 - [Discord](https://discord.com/category/engineering)
-- [Slack](https://slack.engineering/)
+- [Dremio](https://www.dremio.com/blog/)
+
+### F
+
+- [Facebook Engineering](https://engineering.fb.com/)
+
+### G
+
+- [Google Cloud](https://cloud.google.com/blog/)
+
+###  N
+
+- [Netflix](https://netflixtechblog.com/)
+
+###  R
+
 - [Red Hat](https://www.redhat.com/en/blog)
+
+### S
+
+- [Slack](https://slack.engineering/)
+- [Stripe](https://stripe.com/blog/engineering)
+
+### U
+
+- [Uber](https://www.uber.com/en-BH/blog/engineering/)
