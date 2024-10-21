@@ -17,7 +17,12 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 
 ## Data Catalog
 
+- [Amundsen](https://www.amundsen.io/)
 - [Apache Atlas](https://atlas.apache.org/)
+- [DataHub](https://datahubproject.io/)
+- [Marquez](https://marquezproject.ai/)
+- [OpenDataDiscovery](https://opendatadiscovery.org/)
+- [OpenMetadata](https://open-metadata.org/)
   
 ## Blogs
 
