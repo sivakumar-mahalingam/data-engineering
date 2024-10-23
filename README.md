@@ -25,11 +25,14 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [OpenMetadata](https://open-metadata.org/)
   
 ## Blogs
-[A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
+[A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [B](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#b) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
 
 ### A
 - [Apache](https://news.apache.org/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
+
+### B
+- [Booking.com Tech Blog](https://blog.booking.com/)
 
 ### C
 
