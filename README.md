@@ -36,6 +36,13 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [Estuary Flow Open Source](https://github.com/estuary/flow)
 - [Estuary Flow](https://estuary.dev/)
 - [Fivetran](https://www.fivetran.com/)
+- [Matillion](https://www.matillion.com/)
+- [Meltano](https://meltano.com/)
+- [Rivery](https://rivery.io/)
+- [Hevo Data](https://hevodata.com/)
+- [IBM Data Replication](https://www.ibm.com/products/data-replication)
+- [Striim](https://www.striim.com/)
+- [StreamSets](https://www.ibm.com/products/streamsets)
   
 ## Blogs
 [A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [B](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#b) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
