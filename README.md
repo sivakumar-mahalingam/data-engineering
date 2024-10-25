@@ -23,6 +23,19 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [Marquez](https://marquezproject.ai/)
 - [OpenDataDiscovery](https://opendatadiscovery.org/)
 - [OpenMetadata](https://open-metadata.org/)
+
+## CDC Platform
+
+- [Debezium](https://debezium.io/)
+- [Oracle Golden Gate](https://www.oracle.com/integration/goldengate/)
+- [Confluent Replicator](https://www.confluent.io/confluent-replicator/)
+- [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate)
+- [Maxwell](https://maxwells-daemon.io/)
+- [Tungsten Replicator](https://www.continuent.com/products/tungsten-replicator)
+- [BottledWater](https://github.com/confluentinc/bottledwater-pg)
+- [Estuary Flow Open Source](https://github.com/estuary/flow)
+- [Estuary Flow](https://estuary.dev/)
+- [Fivetran](https://www.fivetran.com/)
   
 ## Blogs
 [A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [B](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#b) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
