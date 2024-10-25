@@ -46,6 +46,9 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [IBM StreamSets](https://www.ibm.com/products/streamsets)
 - [Informatica](https://www.informatica.com/)
 - [Talend](https://www.talend.com/)
+- [StreamKap](https://streamkap.com/)
+- [Apache NiFi](https://nifi.apache.org/)
+- [Airbyte](https://airbyte.com/)
   
 ## Blogs
 [A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [B](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#b) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
