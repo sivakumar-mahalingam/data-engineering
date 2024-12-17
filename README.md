@@ -54,6 +54,7 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 [A](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#a) - [B](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#b) - [C](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#c) - [D](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#d) - [F](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#f) - [G](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#g) - [N](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#n) - [R](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#r) - [S](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#s) - [U](https://github.com/sivakumar-mahalingam/the-data-engineer-handbook/blob/main/README.md#u) 
 
 ### A
+- [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
 - [Apache](https://news.apache.org/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
 
@@ -69,6 +70,7 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 - [Databricks](https://www.databricks.com/blog/)
 - [Discord](https://discord.com/category/engineering)
 - [Dremio](https://www.dremio.com/blog/)
+- [Dropbox Tech Blog](https://dropbox.tech/)
 
 ### F
 
@@ -89,6 +91,7 @@ This repository contains valuable materials, tools, guides, and blogs curated fo
 ### S
 
 - [Slack](https://slack.engineering/)
+- [Spotify Engineering](https://engineering.atspotify.com/)
 - [Stripe](https://stripe.com/blog/engineering)
 
 ### U
